@@ -17,9 +17,7 @@ run this in your terminal
 ### Install wget
 
 ```sh
-$ cd dillinger
-$ npm install -d
-$ node app
+$ brew install wget
 ```
 
 ## How to use
